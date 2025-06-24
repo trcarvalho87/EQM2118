@@ -6,7 +6,7 @@ Desevolver modelo de regresão com machine learning para predição da deposiç�
 
 **2) Arquivos principais**:
  - **Banco de dados**: **HOLD** (informações restritas no presente momento)
- - **Jupyter Notebook - PrePros_R01.ipynb**: Notebook contendo as etapas de tratamento do banco de dados, exploração, _feature selection_ e modelo de regressão.
+ - **Jupyter Notebook - Model_R03.ipynb**: Notebook contendo as etapas de tratamento do banco de dados, exploração, _feature selection_ e modelo de regressão.
 
 **3) Principais Bibliotecas utilizadas:**
  - Pandas
